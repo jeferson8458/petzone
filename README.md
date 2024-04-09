@@ -1,7 +1,7 @@
 <h1 align="center">Olho Alerta - Front-End</h1>
 
 <h1 align="center">
-    <img alt="Happy" src="src/assets/Capa.png" />
+    <img alt="Happy" src="src/assets/capa.png" />
 </h1>
 
 ## Tecnologias 🚀
