@@ -8,11 +8,15 @@ const config: Config = {
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
-        "gradient-conic":
-          "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+      backgroundImage:{
+        'hero-pattern': "url('../assets/teste1.svg')",
       },
+    colors:{
+      'primary-blue':'#0078CD',
+      'securdy-blue':'#00528C',
+      'primary-yellow':'#FCEED5',
+      'securdy-yellow':'#F1D092',
+    }
     },
   },
   plugins: [],
